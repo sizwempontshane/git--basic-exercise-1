@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 some stuff
-which is awesome
 like milkshakes
+=======
+booya
+>>>>>>> history
+
